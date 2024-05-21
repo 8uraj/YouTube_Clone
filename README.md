@@ -4,7 +4,7 @@
 
 ![screenshot](./screenshot.png)
 ## Live Demo
-https://ahmetbozaci.github.io/youtube_clone/
+[Redirect to Vercel Link](https://youtube-clone-flax-tau.vercel.app/)
 
 ## Built With
 
@@ -13,23 +13,16 @@ https://ahmetbozaci.github.io/youtube_clone/
 
 ## Authors
 
-👤 **Meron Ogbai**
+👤 **Suraj Yelpale**
 
-- Github: [@meronokbay](https://github.com/meronokbay)
-- Twitter: [@MeronDev](https://twitter.com/MeronDev)
-- Linkedin: [linkedin](https://linkedin.com/in/meron-ogbai-467414198/)
+- Github: [@8uraj](https://github.com/8uraj)
+- Linkedin: [linkedin](https://linkedin.com/in/suraj-yelpale/)
 
-👤 **Ahmet Bozaci**
 
-- Github: [@ahmetbozaci](https://github.com/ahmetbozaci)
-- Twitter: [@ahmtbozaci](https://twitter.com/ahmtbozaci)
-- Linkedin: [linkedin](https://linkedin.com/in/ahmetbozaci)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
-
-Feel free to check the [https://github.com/ahmetbozaci/youtube_clone/issues](issues/).
 
 ## Show your support
 
