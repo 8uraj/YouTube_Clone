@@ -1,6 +1,6 @@
 # Youtube Clone
 
-> It is first project of Microverse by Ahmet and Meron
+> It is first project 
 
 ![screenshot](./screenshot.png)
 ## Live Demo
